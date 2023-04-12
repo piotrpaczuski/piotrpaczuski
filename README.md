@@ -1,4 +1,4 @@
-## 🙍 About me
+## 👨‍💻 About me
 
 I'm 21 years old, technical student. Still learning and discovering new stuff!
 
