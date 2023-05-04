@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Piotr Paczuski
 
-I'm 21 years old. I am currently studying IT and works. In my free time I create projects for my portfolio and learn new technologies. I am looking for a job as a Frontend Developer. I am open to new opportunities.
+I am 21 years old. I am currently studying computer science and working. In my free time I create projects for my portfolio and learn new technologies. I am looking for a job as a Frontend Developer. I am open to new opportunities.
 
 ### 👉 Visit my personal website: [https://piotrpaczuski.github.io/personal-homepage/](https://piotrpaczuski.github.io/personal-homepage/)
 
-### ✉️ Contact with me
+### ✉️ Contact me
 [![Gmail](https://img.shields.io/badge/gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paczuskipio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-paczuski/)
 
@@ -32,13 +32,12 @@ I'm 21 years old. I am currently studying IT and works. In my free time I create
 [![Unit Testing](https://img.shields.io/badge/-Unit%20testing-%23E5E5E5.svg?style=for-the-badge&logo=jest&logoColor=C21325)](#)
 [![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
-
 ### ⌨ What am I doing?
 
 -   Websites 🌐
 -   Web Applications 🖥
 
-### 📚 What I want to learn doing?
+### 📚 What do I want to learn?
 
 -   Mobile Applications 📱
 -   Desktop Applications 💻
