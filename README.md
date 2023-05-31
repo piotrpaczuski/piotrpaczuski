@@ -19,7 +19,7 @@ I'm 21 years old. I am currently studying IT and works. In my free time I create
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![React Router](https://img.shields.io/badge/-React%20Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Redux-Saga](https://img.shields.io/badge/-Redux--Saga-764ABC.svg?style=for-the-badge&logo=redux-saga&logoColor=white)](https://redux-saga.js.org/)
+[![Redux-Saga](https://camo.githubusercontent.com/8346f9edca4ec1f279f4f6521e80b958f1a59801ff036037d2b886aefed7b204/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d52656475782d5361676126636f6c6f723d393939393939266c6f676f3d52656475782d53616761266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://redux-saga.js.org/)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 
 <!-- ### 🌱 I'm currently learning:
